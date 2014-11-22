@@ -1,4 +1,4 @@
 hello-world
 ===========
 
-Initial GitHub repository
+Lorem ipsum to you!
